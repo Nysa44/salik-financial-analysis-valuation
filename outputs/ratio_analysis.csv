@@ -1,0 +1,4 @@
+fiscal_year,revenue_aed_m,ebitda_aed_m,net_profit_aed_m,free_cash_flow_aed_m,ebitda_margin_pct,net_profit_margin_pct,revenue_generating_trips_m,source,revenue_growth_pct,ebitda_growth_pct,net_profit_growth_pct,free_cash_flow_growth_pct,calculated_ebitda_margin_pct,calculated_net_profit_margin_pct,fcf_margin_pct
+2023,2108.593,1390.0,1097.967,1450.0,65.9,52.1,461.4,Salik FY2024 annual report; EBITDA/FCF rounded where headline-reported,,,,,65.92073482175081,52.07107298563546,68.76623416657459
+2024,2291.907,1579.0,1164.548,1457.0,68.9,50.8,498.1,Salik FY2024 annual report,8.693664448283766,13.597122302158283,6.064025603683887,0.4827586206896495,68.89459301795404,50.811311279209846,63.571514900037386
+2025,3096.913,2143.9,1553.362,2080.0,69.2,50.2,639.1,Salik FY2025 annual report,35.12385101140665,35.77580747308424,33.387546069376285,42.75909402882636,69.22700121056032,50.15839967089809,67.16365619570198

@@ -1,0 +1,5 @@
+company,ticker,valuation_date,market_cap_aed_m,net_debt_aed_m,ev_aed_m,ltm_ebitda_aed_m,ev_ebitda_x,source_url,comparability_notes
+Salik Company P.J.S.C.,SALIK (ADX),,,,,2143.9,,,"Subject company; source current market capitalization, cash/debt and market date before calculating multiples."
+Peer 1 — select and verify,,,,,,,,,Choose a listed toll-road or infrastructure operator and explain differences in concession and leverage.
+Peer 2 — select and verify,,,,,,,,,"Keep valuation date, currency and EBITDA definition consistent."
+Peer 3 — select and verify,,,,,,,,,Exclude or flag businesses with materially different concession structures or business mixes.
