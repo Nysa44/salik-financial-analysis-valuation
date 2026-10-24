@@ -52,5 +52,4 @@ Salik reported revenue of AED 3.097bn, EBITDA of AED 2.144bn, net profit of AED 
 ## Valuation limitations
 The EV/EBITDA sensitivity uses illustrative multiples and is not a completed comparable-company valuation. The peer template must be populated with real, sourced data from a consistent date. Do not present the scenario output as a market-implied value or share-price target. For a formal valuation, consider the concession term, debt, cash, finance costs, dividends and potential terminal-value limitations.
 
-## Disclaimer
-Educational portfolio project only. Not investment advice or a recommendation to buy, sell or hold securities.
+
